@@ -1,1 +1,1 @@
-File type
+File type: School
